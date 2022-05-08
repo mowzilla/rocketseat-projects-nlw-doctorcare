@@ -283,7 +283,7 @@ body.menu-expanded button path {
 #home::before {
   content: '';
   width: 100%;
-  height: calc(76% + var(--nav-height));
+  height: calc(101rem + var(--nav-height));
   background-color: var(--brand-light);
   display: block;
 
@@ -617,7 +617,7 @@ footer .social-links {
   /*=== HOME ============================================*/
 
   #home::before {
-    height: calc(86% - var(--nav-height));
+    height: calc(79rem - var(--nav-height));
   }
 
   #home {
