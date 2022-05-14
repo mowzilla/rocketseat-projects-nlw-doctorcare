@@ -698,10 +698,10 @@ footer .social-links {
     align-self: center;
   }
 
-  /* #about img {
+  #about img {
     width: 48rem;
     height: 41.4rem;
-  } */
+  }
 
   #about .content p {
     margin-bottom: 0;
@@ -716,6 +716,11 @@ footer .social-links {
 
   #contact h2 {
     width: 40.4rem;
+  }
+
+  #contact img {
+    width: 57.5rem;
+    height: 37.9rem;
   }
 
   /*=== FOOTER ============================================*/
